@@ -1,1 +1,11 @@
 .DS_Store
+/.idea
+dao/__pycache__
+helpers/__pycache__
+views/__pycache__
+__pycache__
+/venv
+/tests/.pytest_cache
+/project-easy
+/project-hard
+
